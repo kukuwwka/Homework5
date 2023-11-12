@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 public class Lottery {
     public static void main(String[] args) {
-        ArrayList<Integer> values = new ArrayList<Integer>();
+        ArrayList<Integer> values = new ArrayList<>();
         for (int i = 0; i <= 100; i++) {
             values.add(i);
         }
